@@ -13,5 +13,4 @@ public class ServerFactory implements ComputerAbstractFactory {
     public Computer newComputer() {
         return new Server(ram,hdd,cpu);
     }
-
 }
