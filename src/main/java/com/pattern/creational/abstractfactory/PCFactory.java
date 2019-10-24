@@ -1,6 +1,5 @@
 package com.pattern.creational.abstractfactory;
 
-
 public class PCFactory implements ComputerAbstractFactory {
 
     private String ram, hdd, cpu;
