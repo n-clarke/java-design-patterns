@@ -17,19 +17,22 @@ public class Serialisation implements Serializable {
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
+        //Serialisation object to file
         Serialisation serialOne = Serialisation.getInstance();
-        ObjectOutput out = new ObjectOutputStream(new FileOutputStream("file.txt"));
+        ObjectOutput out = new ObjectOutputStream(new FileOutputStream("file.ser"));
         out.writeObject(serialOne);
         out.close();
 
         //Deserialize from file to object
-        ObjectInput in = new ObjectInputStream(new FileInputStream("file.txt"));
+        ObjectInput in = new ObjectInputStream(new FileInputStream("file.ser"));
         Serialisation serialTwo = (Serialisation) in.readObject();
         in.close();
 
+        //Display hashcode
         System.out.println("instanceOne hashCode = " + serialOne.hashCode());
         System.out.println("instanceTwo hashCode = " + serialTwo.hashCode());
-        
-        new File("file.txt").delete();
+
+        //Clean up
+        new File("file.ser").delete();
     }
 }
