@@ -8,6 +8,6 @@ public abstract class Computer {
 
     @Override
     public String toString(){
-        return "RAM= "+this.getRAM()+", HDD="+this.getHDD()+", CPU="+this.getCPU();
+        return "RAM = " + this.getRAM() + "\n HDD = " + this.getHDD() + "\n CPU = " + this.getCPU();
     }
 }

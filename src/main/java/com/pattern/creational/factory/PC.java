@@ -9,6 +9,7 @@ public class PC extends Computer {
         this.hdd = hdd;
         this.cpu = cpu;
     }
+
     @Override
     public String getRAM() {
         return this.ram;
