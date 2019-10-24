@@ -20,17 +20,16 @@ public class MainComposite {
                 .filter(m->m.getWeightKG() <= 75)
                 .forEach(System.out::println);
 
+        //Animals Greater than 30kg
+        Stream<Animal> heavy =
+                farm.stream()
+                        //.map(a->{a.speak(); return a;})
+                        .filter(a -> a.getWeightKG() > 30);
         //Print Animal Greater than 30kg
         System.out.println("Animals > 30 KG");
-        farm.stream()
-                .filter(m->m.getWeightKG() > 30)
-                .forEach(System.out::println);
+        heavy.forEach(System.out::println);
 
         //Make Animals Greater than 30kg Speak
-        Stream<Animal> heavy =
-            farm.stream()
-                    //.map(a->{a.speak(); return a;})
-                    .filter(a -> a.getWeightKG() > 30);
         System.out.println("Make Big Animals Speak:");
         heavy.forEach(Animal::speak);
     }

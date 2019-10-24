@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0690a66-9685-496e-ad76-f4d3ea2bf310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Sheep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/AbstractFactoryMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerAbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerAbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PCFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PCFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ServerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ServerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$ComputerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$ComputerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/MainBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/MainBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Factory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/FactoryMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/MainPrototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/MainPrototype.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Eager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Eager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Enum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$Helper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Lazy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ReflectionDestroySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ReflectionDestroySingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$SingletonHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$SingletonHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/StaticBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ThreadSafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ThreadSafe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Adapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/MainAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/MainAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Socket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Socket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Volt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Volt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="348">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -349,16 +305,6 @@
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -500,7 +446,7 @@
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +456,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32905483" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -945,8 +891,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        <state relative-caret-position="348">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
