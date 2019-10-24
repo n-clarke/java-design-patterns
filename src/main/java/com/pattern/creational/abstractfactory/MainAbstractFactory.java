@@ -2,7 +2,7 @@ package com.pattern.creational.abstractfactory;
 
 import static com.pattern.creational.abstractfactory.ComputerFactory.getComputer;
 
-public class AbstractFactoryMain {
+public class MainAbstractFactory {
 
     public static void main(String[] args) {
         Computer pc = getComputer(new PCFactory("8 GB","1 TB","2.4 GHz"));

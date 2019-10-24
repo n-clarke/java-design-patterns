@@ -1,6 +1,6 @@
 package com.pattern.creational.factory;
 
-public class FactoryMain {
+public class MainFactory {
 
     public static void main(String[] args) {
         Computer pc = Factory.getComputer("Apple MacBook Pro","8 GB","1 TB","2.4 GHz");
