@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0690a66-9685-496e-ad76-f4d3ea2bf310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Socket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,12 +31,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#107#108#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
               </folding>
@@ -63,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -75,9 +71,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="75">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
                 <element signature="e#630#631#0" expanded="true" />
                 <element signature="e#677#678#0" expanded="true" />
               </folding>
@@ -93,6 +91,8 @@
               <folding>
                 <element signature="e#541#542#0" expanded="true" />
                 <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,12 +192,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/Enum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/Serialisation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Socket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" />
       </list>
     </option>
   </component>
@@ -716,36 +716,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -760,17 +741,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
