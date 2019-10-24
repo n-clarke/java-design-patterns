@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0690a66-9685-496e-ad76-f4d3ea2bf310" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/AbstractFactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerAbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerAbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ComputerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PCFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/PCFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ServerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/abstractfactory/ServerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$ComputerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer$ComputerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/MainBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/builder/MainBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/FactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/factory/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/MainPrototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/prototype/MainPrototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Eager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Eager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Enum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper$Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/InnerStaticHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Lazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ReflectionDestroySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ReflectionDestroySingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$SingletonHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation$SingletonHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/Serialisation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/StaticBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ThreadSafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/creational/singleton/ThreadSafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/MainAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/MainAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Socket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Socket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/SocketAdapterObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Volt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/adapter/Volt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,34 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/InnerStaticHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Socket.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,38 +77,121 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="416">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Sheep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding>
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Chicken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="5" selection-start-column="32" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Pig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="5" selection-start-column="32" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Cow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Override.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -103,37 +201,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
               <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/ReflectionDestroySingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/Serialisation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/StaticBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -198,6 +265,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Chicken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Pig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Cow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Sheep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/RunTime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java" />
       </list>
     </option>
   </component>
@@ -283,7 +357,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,7 +369,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstractfactory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -309,6 +383,7 @@
       <recent name="com.pattern.structural.adapter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/pattern/structural/composite" />
       <recent name="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstractfactory" />
     </key>
   </component>
@@ -324,7 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainAdapter">
+  <component name="RunManager" selected="Application.MainComposite">
     <configuration name="MainAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pattern.structural.adapter.MainAdapter" />
       <module name="javadesignpatterns" />
@@ -338,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pattern.creational.builder.MainBuilder" />
+    <configuration name="MainComposite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.structural.composite.MainComposite" />
       <module name="javadesignpatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pattern.creational.builder.*" />
+          <option name="PATTERN" value="com.pattern.structural.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,11 +467,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainComposite" />
         <item itemvalue="Application.MainAdapter" />
         <item itemvalue="Application.Serialisation" />
         <item itemvalue="Application.ReflectionDestroySingleton" />
         <item itemvalue="Application.MainPrototype" />
-        <item itemvalue="Application.MainBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +500,7 @@
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +510,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32905483" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -545,7 +620,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/factory/FactoryMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/factory/MainFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -594,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstractfactory/AbstractFactoryMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstractfactory/MainAbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -716,40 +791,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -767,15 +816,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Volt.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/SocketAdapterClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/MainAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="5" selection-start-column="32" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="5" selection-start-column="32" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/adapter/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/structural/composite/MainComposite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
