@@ -1,4 +1,4 @@
-package com.pattern.creational.builder;
+package src.main.java.com.pattern.creational.builder;
 
 public class Computer {
 

@@ -1,4 +1,4 @@
-package com.pattern.creational.singleton;
+package src.main.java.com.pattern.creational.singleton;
 
 public class Eager {
     private static final Eager instance = new Eager();

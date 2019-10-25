@@ -1,4 +1,4 @@
-package com.pattern.structural.adapter;
+package src.main.java.com.pattern.structural.adapter;
 
 public class SocketAdapterClass extends Socket implements Adapter {
 

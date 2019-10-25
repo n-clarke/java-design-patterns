@@ -1,4 +1,4 @@
-package com.pattern.creational.singleton;
+package src.main.java.com.pattern.creational.singleton;
 
 //Bill Pugh Inner static Helper Method
 public class InnerStaticHelper {

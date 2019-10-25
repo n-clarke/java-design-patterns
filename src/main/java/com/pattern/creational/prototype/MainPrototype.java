@@ -1,4 +1,4 @@
-package com.pattern.creational.prototype;
+package src.main.java.com.pattern.creational.prototype;
 
 public class MainPrototype {
 

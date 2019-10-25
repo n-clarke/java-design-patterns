@@ -1,4 +1,4 @@
-package com.pattern.structural.composite;
+package src.main.java.com.pattern.structural.composite;
 
 public class Cow implements Animal {
 

@@ -1,6 +1,6 @@
-package com.pattern.creational.abstractfactory;
+package src.main.java.com.pattern.creational.abstractfactory;
 
-import static com.pattern.creational.abstractfactory.ComputerFactory.getComputer;
+import static src.main.java.com.pattern.creational.abstractfactory.ComputerFactory.getComputer;
 
 public class MainAbstractFactory {
 

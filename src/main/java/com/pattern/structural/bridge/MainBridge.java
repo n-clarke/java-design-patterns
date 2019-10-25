@@ -1,4 +1,4 @@
-package com.pattern.structural.bridge;
+package src.main.java.com.pattern.structural.bridge;
 
 public class MainBridge {
 

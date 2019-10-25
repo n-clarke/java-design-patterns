@@ -1,4 +1,4 @@
-package com.pattern.creational.factory;
+package src.main.java.com.pattern.creational.factory;
 
 public class Factory {
 

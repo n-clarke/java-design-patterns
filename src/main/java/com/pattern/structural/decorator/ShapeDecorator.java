@@ -1,4 +1,4 @@
-package com.pattern.structural.decorator;
+package src.main.java.com.pattern.structural.decorator;
 
 public class ShapeDecorator implements Shape {
     protected Shape shape;
