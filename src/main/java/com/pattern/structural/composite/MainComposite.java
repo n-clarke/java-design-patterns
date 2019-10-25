@@ -25,7 +25,7 @@ public class MainComposite {
                 farm.stream()
                         //.map(a->{a.speak(); return a;})
                         .filter(a -> a.getWeightKG() > 30);
-        
+
         //Print Animal Greater than 30kg
         System.out.println("Animals > 30 KG");
         heavy.forEach(System.out::println);
