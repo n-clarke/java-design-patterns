@@ -24,7 +24,7 @@ public class Computer {
     }
 
     //Computer Builder Class
-    public static class ComputerBuilder{
+    public static class ComputerBuilder {
 
         private String hdd, ram;
         private boolean isGraphicsCardEnabled, isBluetoothEnabled;
