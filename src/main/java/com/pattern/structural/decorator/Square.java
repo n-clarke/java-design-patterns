@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.structural.decorator;
+package com.pattern.structural.decorator;
 
 public class Square implements Shape {
 

@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.structural.bridge;
+package com.pattern.structural.bridge;
 
 public abstract class Animal {
 

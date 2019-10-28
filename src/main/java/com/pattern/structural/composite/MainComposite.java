@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.structural.composite;
+package com.pattern.structural.composite;
 
 import java.util.ArrayList;
 import java.util.stream.Stream;

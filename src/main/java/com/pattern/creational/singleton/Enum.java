@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.creational.singleton;
+package com.pattern.creational.singleton;
 
 public enum Enum {
 

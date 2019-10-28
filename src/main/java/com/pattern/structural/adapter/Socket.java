@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.structural.adapter;
+package com.pattern.structural.adapter;
 
 public class Socket {
 

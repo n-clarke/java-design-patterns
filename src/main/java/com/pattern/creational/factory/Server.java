@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.creational.factory;
+package com.pattern.creational.factory;
 
 public class Server extends Computer {
 

@@ -1,4 +1,4 @@
-package src.main.java.com.pattern.creational.builder;
+package com.pattern.creational.builder;
 
 public class MainBuilder {
 
