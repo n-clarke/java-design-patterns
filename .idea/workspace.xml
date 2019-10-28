@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0690a66-9685-496e-ad76-f4d3ea2bf310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/MainTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/OnlinePurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/TransactionProcessTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pattern/structural/flyweight/VehicleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pattern/structural/flyweight/VehicleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,8 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
@@ -209,8 +204,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/OnlineOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/InstoreOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/MainTemplateMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/TransactionProcessTemplate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/OnlinePurchase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/TransactionProcessTemplate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java" />
       </list>
     </option>
@@ -273,6 +268,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -797,13 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/TransactionProcessTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/OnlinePurchase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -817,10 +815,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/TransactionProcessTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/behavioral/templatemethod/StorePurchase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />

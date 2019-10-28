@@ -12,12 +12,12 @@ class StorePurchase extends TransactionProcessTemplate
     @Override
     public void paymentTransaction()
     {
-        System.out.println("Customer has paid at counter using either cash, POS or gift card.");
+        System.out.println("Customer has paid at counter using either Cash, POS or Gift Card.");
     }
 
     @Override
     public void productDelivery()
     {
-        System.out.println("Product is collected at store counter.");
+        System.out.println("Product has been collected at store counter.");
     }
 }
